@@ -8,7 +8,7 @@
 
 📝 I regularly write articles on [My Blog](https://idarbandi99.com)
 
-💬 Ask me about **Python, Docker, Javascript**
+💬 Ask me about **Python, Docker, Javascript, and PHP**
 
 📫 How to reach me: **darbandidr99@gmail.com**
 
