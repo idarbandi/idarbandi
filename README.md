@@ -1,50 +1,69 @@
 
 ```markdown
-# Hi, I'm Amir Darbandi
-
-**Full-Stack Developer** | **Problem Solver**  
-Building robust systems with Python, JavaScript, and a love for clean architecture.
-
----
-
-### 🔥 Current Focus
-- **Building**: Farming Store Project (Next.js + Laravel)
-- **Learning**: Laravel | Next.js | Node.js
-- **Writing**: Tech tutorials on [my blog](https://idarbandi99.com)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=500&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Amir+Darbandi;Full-Stack+Dev;Problem+Solver;Automation+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠 Core Stack
+### 🛠 **Technical Arsenal**
 
-#### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-#### **Frameworks & Tools**
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+| **Frontend** | **Backend** | **Databases** | **DevOps** |
+|--------------|-------------|---------------|------------|
+| React        | Django      | PostgreSQL    | Docker     |
+| Vue.js       | Laravel     | MongoDB       | Nginx      |
+| TypeScript   | Node.js     | Redis         | Linux      |
+| SASS         | Flask       | MySQL         | Git        |
 
 ---
 
-### 📊 GitHub Stats
-
-[![Amir's Stats](https://github-readme-stats.vercel.app/api?username=idarbandi&show_icons=true&theme=dark&hide_title=true&hide=prs,issues)](https://github.com/idarbandi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idarbandi&layout=compact&theme=dark&hide=html,css)](https://github.com/idarbandi)
-
----
-
-### 📫 Let's Connect
-- **Portfolio**: [darband.i](https://darband.i)
-- **LinkedIn**: [crazy4cinema](https://linkedin.com/in/crazy4cinema)
-- **Email**: [darbandidr99@gmail.com](mailto:darbandidr99@gmail.com)
-- **Blog**: [Technical Insights](https://idarbandi99.com)
+### 🚀 **Current Projects**
+**🌾 Farming Store Platform**  
+Next.js + Laravel | Real-time analytics | Scalable inventory system  
+*"Solving agritech challenges with modern web stacks."*
 
 ---
 
-> "First solve the problem. Then write the code."  
-> *Fun Fact: I automate everything - even my morning coffee ☕*
+### 📈 **GitHub Analytics**
+
+<div align="center">
+  <a href="https://github.com/idarbandi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idarbandi&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=idarbandi&theme=dark&background=0d1117&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 💡 **Problem-Solving Philosophy**
+```python
+def solve_problem():
+    while not problem_solved:
+        analyze()
+        experiment()
+        debug()
+    return elegant_solution
+
+# Currently solving: Scaling real-time features in Next.js
+```
+
+---
+
+### 📬 **Let's Collaborate**
+<div align="center">
+  <a href="https://darband.i" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:darbandidr99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/crazy4cinema">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+> **"First solve the problem. Then write the code."**  
+> *Fun Fact: Automated my coffee maker to brew when CI/CD pipelines pass ☕🤖*
 ```
