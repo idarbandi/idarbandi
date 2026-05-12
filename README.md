@@ -1,13 +1,13 @@
 # 👋 Hello World, I'm Amir Darbandi 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&random=false&width=435&lines=Full+Stack+Developer;Enterprise+Solutions+Architect;Python+%26+JavaScript+Expert;System+Design+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&random=false&width=435&lines=Software+Engineer;Python+%26+Go+Expert;System+%26+Microservice+Architecture;Fintech+%26+E-Commerce;CI/CD+pipelines;Unittest)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
 > Building scalable enterprise solutions with a focus on user experience and system reliability
 
 - 🔭 Currently leading **MealSync** - An enterprise meal management system handling 3000+ users
-- 🌱 Specializing in **Python**, and **Go** for large-scale applications
+- 🌱 Specializing in **Python**, and Go** for large-scale applications
 - 💡 Passionate about solving complex architectural challenges
 - 🎯 Focus on building reliable, maintainable, and scalable systems
 - 📚 Constantly learning and sharing knowledge with the community
@@ -16,15 +16,10 @@
 
 ### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Frontend Magic
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
