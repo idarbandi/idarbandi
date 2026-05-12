@@ -7,7 +7,7 @@
 > Building scalable enterprise solutions with a focus on user experience and system reliability
 
 - 🔭 Currently leading **MealSync** - An enterprise meal management system handling 3000+ users
-- 🌱 Specializing in **Django**, **Next.js**, and **Laravel** for large-scale applications
+- 🌱 Specializing in **Python**, and **Go** for large-scale applications
 - 💡 Passionate about solving complex architectural challenges
 - 🎯 Focus on building reliable, maintainable, and scalable systems
 - 📚 Constantly learning and sharing knowledge with the community
